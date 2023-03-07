@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "array-move": "^2.2.1",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "country-list": "^2.2.0",
     "eslint-plugin-react-hooks": "^2.1.2",
     "faker": "^4.1.0",
