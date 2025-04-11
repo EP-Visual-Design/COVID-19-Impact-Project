@@ -1,4 +1,4 @@
-parse sec 0.093
+parse sec 0.172
 -------------------------------------------
 Bronx| n_subs 25
 Brooklyn| n_subs 37
@@ -6,4 +6,4 @@ Manhattan| n_subs 44
 Queens| n_subs 59
 Staten Island| n_subs 12
 -------------------------------------------
-lapse sec 12.414
+lapse sec 15.592
